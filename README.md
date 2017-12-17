@@ -13,7 +13,8 @@
 主要使用 Pandas 和 Matplotlib 框架。同时 numpy 也是要求范围之内的。
 ## 数据文件
 实验提供的数据是 QQ 群的聊天记录文件。可以通过手机 QQ 客户端的记录导出功能获得数据文件。
-获取方式 todo
+获取方式 公告群下载 data.csv
+编码格式为 utf-8
 ## 实验环境
 实验环境为 juypter notebook
 获取方式
